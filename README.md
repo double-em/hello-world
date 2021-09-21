@@ -1,4 +1,4 @@
-# hello-world drone CI/CD  
+# hello-world drone CI/CD Test  
 
 ## Project setup 
 ```
